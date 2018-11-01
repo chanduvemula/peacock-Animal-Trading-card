@@ -1,0 +1,49 @@
+* add your CSS here */
+#container{
+  border:thin solid gray;
+  width:350px;
+  padding:10px;
+}
+
+#card{
+  border:thin solid gray;
+  width:320px;
+  padding-left:10px;
+  box-shadow: 5px, 10px;
+}
+.title
+{
+  font-weight: bold;
+}
+.picture
+{
+  width: 320px;
+  height: 200px;
+  margin-bottom: 10px;
+  border: thin solid gray;
+}
+
+
+#interesting-fact
+{
+  width:300px;
+
+  padding:0;
+  margin-bottom: 10px;
+  font-style: italic;
+
+}
+
+#facts
+{
+  padding-left:0;
+  list-style: none;
+}
+span
+{
+   font-weight: bold;
+}
+#summary
+{
+ padding:10px;
+}
